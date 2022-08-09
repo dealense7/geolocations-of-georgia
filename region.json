@@ -1,0 +1,616 @@
+[
+  {
+    "title": "Imereti",
+    "coordinates": {
+      "lat": "42.18755995",
+      "lon": "42.952155407513104"
+    },
+    "children": [
+      {
+        "title": "Baghdati",
+        "coordinates": {
+          "lat": "41.999724099999995",
+          "lon": "42.902875224630904"
+        }
+      },
+      {
+        "title": "Kutaisi",
+        "coordinates": {
+          "lat": "42.2716078",
+          "lon": "42.7054475"
+        }
+      },
+      {
+        "title": "Tkibuli",
+        "coordinates": {
+          "lat": "42.3477177",
+          "lon": "42.9980769"
+        }
+      },
+      {
+        "title": "Terjola",
+        "coordinates": {
+          "lat": "42.2267266",
+          "lon": "42.92333500354401"
+        }
+      },
+      {
+        "title": "Vani",
+        "coordinates": {
+          "lat": "19.97674535",
+          "lon": "78.95941560302256"
+        }
+      },
+      {
+        "title": "Zestaphoni",
+        "coordinates": {
+          "lat": "42.1072737",
+          "lon": "43.0393685"
+        }
+      },
+      {
+        "title": "Sachkhere",
+        "coordinates": {
+          "lat": "42.3401451",
+          "lon": "43.405233"
+        }
+      },
+      {
+        "title": "Chiatura",
+        "coordinates": {
+          "lat": "42.2910245",
+          "lon": "43.2888362"
+        }
+      },
+      {
+        "title": "Tskaltubo",
+        "coordinates": {
+          "lat": "42.31352685",
+          "lon": "42.597369919212845"
+        }
+      },
+      {
+        "title": "Kharagauli",
+        "coordinates": {
+          "lat": "42.0114411",
+          "lon": "43.2072406"
+        }
+      },
+      {
+        "title": "Khoni",
+        "coordinates": {
+          "lat": "42.3245517",
+          "lon": "42.4221702"
+        }
+      },
+      {
+        "title": "Samtredia",
+        "coordinates": {
+          "lat": "42.1645985",
+          "lon": "42.3460344"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Kakheti",
+    "coordinates": {
+      "lat": "41.737352",
+      "lon": "45.6721781"
+    },
+    "children": [
+      {
+        "title": "Sighnaghi",
+        "coordinates": {
+          "lat": "41.6184557",
+          "lon": "45.9220959"
+        }
+      },
+      {
+        "title": "Lagodekhi",
+        "coordinates": {
+          "lat": "41.8242785",
+          "lon": "46.2738235"
+        }
+      },
+      {
+        "title": "Telavi",
+        "coordinates": {
+          "lat": "41.923908",
+          "lon": "45.48722823451665"
+        }
+      },
+      {
+        "title": "Kvareli",
+        "coordinates": {
+          "lat": "41.967167599999996",
+          "lon": "45.864757565386654"
+        }
+      },
+      {
+        "title": "Dedoplistskaro",
+        "coordinates": {
+          "lat": "41.4642885",
+          "lon": "46.1026376"
+        }
+      },
+      {
+        "title": "Sagarejo",
+        "coordinates": {
+          "lat": "41.675841950000006",
+          "lon": "45.414911599438966"
+        }
+      },
+      {
+        "title": "Akhmeta",
+        "coordinates": {
+          "lat": "42.22529915",
+          "lon": "45.24661874140014"
+        }
+      },
+      {
+        "title": "Gurjaani",
+        "coordinates": {
+          "lat": "41.7463818",
+          "lon": "45.7946722"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Adjara",
+    "coordinates": {
+      "lat": "41.67315085",
+      "lon": "41.91966521300377"
+    },
+    "children": [
+      {
+        "title": "Batumi",
+        "coordinates": {
+          "lat": "41.6509502",
+          "lon": "41.6360085"
+        }
+      },
+      {
+        "title": "Kobuleti",
+        "coordinates": {
+          "lat": "41.8113601",
+          "lon": "41.7793202"
+        }
+      },
+      {
+        "title": "Shuakhevi",
+        "coordinates": {
+          "lat": "41.621409850000006",
+          "lon": "42.197872007277354"
+        }
+      },
+      {
+        "title": "Keda",
+        "coordinates": {
+          "lat": "5.8098265",
+          "lon": "100.6715035"
+        }
+      },
+      {
+        "title": "Khulo",
+        "coordinates": {
+          "lat": "41.645064250000004",
+          "lon": "42.31557880481246"
+        }
+      },
+      {
+        "title": "Khelvachauri",
+        "coordinates": {
+          "lat": "41.5782199",
+          "lon": "41.6600745"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Svaneti",
+    "coordinates": {
+      "lat": "42.9170364",
+      "lon": "43.014221"
+    },
+    "children": [
+      {
+        "title": "Mestia",
+        "coordinates": {
+          "lat": "43.0438877",
+          "lon": "42.7253182"
+        }
+      },
+      {
+        "title": "Lentekhi",
+        "coordinates": {
+          "lat": "42.7927295",
+          "lon": "42.72058501868529"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Mtskheta - Mtianeti",
+    "coordinates": {
+      "lat": "42.22903125",
+      "lon": "44.85699627323977"
+    },
+    "children": [
+      {
+        "title": "Kazbegi",
+        "coordinates": {
+          "lat": "42.6969414",
+          "lon": "44.5181108"
+        }
+      },
+      {
+        "title": "Mtskheta",
+        "coordinates": {
+          "lat": "41.846295",
+          "lon": "44.7195591"
+        }
+      },
+      {
+        "title": "Akhalgori",
+        "coordinates": {
+          "lat": "42.127190049999996",
+          "lon": "44.48121811637252"
+        }
+      },
+      {
+        "title": "Dusheti",
+        "coordinates": {
+          "lat": "42.0844709",
+          "lon": "44.6959371"
+        }
+      },
+      {
+        "title": "Taineti",
+        "coordinates": {
+          "lat": "",
+          "lon": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Shida Kartli",
+    "coordinates": {
+      "lat": "41.988683550000005",
+      "lon": "43.981129820759406"
+    },
+    "children": [
+      {
+        "title": "Gori",
+        "coordinates": {
+          "lat": "41.9818469",
+          "lon": "44.1117811"
+        }
+      },
+      {
+        "title": "Kaspi",
+        "coordinates": {
+          "lat": "41.7789772",
+          "lon": "50.560757905794325"
+        }
+      },
+      {
+        "title": "Kareli",
+        "coordinates": {
+          "lat": "41.9817245",
+          "lon": "43.88332077370677"
+        }
+      },
+      {
+        "title": "Khashuri",
+        "coordinates": {
+          "lat": "41.9972652",
+          "lon": "43.5989395"
+        }
+      },
+      {
+        "title": "Tskhinvali",
+        "coordinates": {
+          "lat": "42.2251222",
+          "lon": "43.9708477"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Samtskhe - Javakheti",
+    "coordinates": {
+      "lat": "41.52653525",
+      "lon": "43.2469570403887"
+    },
+    "children": [
+      {
+        "title": "Adigeni",
+        "coordinates": {
+          "lat": "41.706648099999995",
+          "lon": "42.69804278323947"
+        }
+      },
+      {
+        "title": "Borjomi",
+        "coordinates": {
+          "lat": "41.8386946",
+          "lon": "43.3791739"
+        }
+      },
+      {
+        "title": "Akhaltsikhe",
+        "coordinates": {
+          "lat": "41.6395128",
+          "lon": "42.9859225"
+        }
+      },
+      {
+        "title": "Aspindza",
+        "coordinates": {
+          "lat": "41.5008184",
+          "lon": "43.235140493794475"
+        }
+      },
+      {
+        "title": "Akhalkalaki",
+        "coordinates": {
+          "lat": "41.4080904",
+          "lon": "43.4843036"
+        }
+      },
+      {
+        "title": "Ninotsminda",
+        "coordinates": {
+          "lat": "41.32395015",
+          "lon": "43.729228678739815"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Kvemo Kartli",
+    "coordinates": {
+      "lat": "41.5113299",
+      "lon": "44.58861652920161"
+    },
+    "children": [
+      {
+        "title": "Bolnisi",
+        "coordinates": {
+          "lat": "41.4493333",
+          "lon": "44.5369461"
+        }
+      },
+      {
+        "title": "Marneuli",
+        "coordinates": {
+          "lat": "41.4718258",
+          "lon": "44.8159789"
+        }
+      },
+      {
+        "title": "Gardabani",
+        "coordinates": {
+          "lat": "41.4596178",
+          "lon": "45.089706"
+        }
+      },
+      {
+        "title": "Dmanisi",
+        "coordinates": {
+          "lat": "41.3310492",
+          "lon": "44.2041258"
+        }
+      },
+      {
+        "title": "Tsalka",
+        "coordinates": {
+          "lat": "41.5953381",
+          "lon": "44.0914431"
+        }
+      },
+      {
+        "title": "Tetritskaro",
+        "coordinates": {
+          "lat": "41.5427292",
+          "lon": "44.4625567"
+        }
+      },
+      {
+        "title": "Rustavi",
+        "coordinates": {
+          "lat": "41.54309",
+          "lon": "45.0112804"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Guria",
+    "coordinates": {
+      "lat": "41.9772681",
+      "lon": "41.982826192238946"
+    },
+    "children": [
+      {
+        "title": "Ozurgeti",
+        "coordinates": {
+          "lat": "41.92505165",
+          "lon": "42.00117516486742"
+        }
+      },
+      {
+        "title": "Lanchkhuti",
+        "coordinates": {
+          "lat": "42.073969",
+          "lon": "41.947216842520646"
+        }
+      },
+      {
+        "title": "Chokhatauri",
+        "coordinates": {
+          "lat": "42.0192103",
+          "lon": "42.2399471"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Racha",
+    "coordinates": {
+      "lat": "41.0937433",
+      "lon": "20.8120178"
+    },
+    "children": [
+      {
+        "title": "Ambrolauri",
+        "coordinates": {
+          "lat": "42.51960415",
+          "lon": "43.14600671376579"
+        }
+      },
+      {
+        "title": "Oni",
+        "coordinates": {
+          "lat": "42.66802335",
+          "lon": "43.53487037032389"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Tbilisi",
+    "coordinates": {
+      "lat": "41.6934591",
+      "lon": "44.8014495"
+    },
+    "children": []
+  },
+  {
+    "title": "Abkhazia",
+    "coordinates": {
+      "lat": "43.1500226",
+      "lon": "41.2299786"
+    },
+    "children": [
+      {
+        "title": "Gali",
+        "coordinates": {
+          "lat": "52.2928116",
+          "lon": "-3.73893"
+        }
+      },
+      {
+        "title": "Gagra",
+        "coordinates": {
+          "lat": "43.2964532",
+          "lon": "40.2582275"
+        }
+      },
+      {
+        "title": "Gudauta",
+        "coordinates": {
+          "lat": "43.102487",
+          "lon": "40.6247105"
+        }
+      },
+      {
+        "title": "Sokhumi",
+        "coordinates": {
+          "lat": "43.0033629",
+          "lon": "41.0192741"
+        }
+      },
+      {
+        "title": "Ochamchire",
+        "coordinates": {
+          "lat": "42.7121136",
+          "lon": "41.4721354"
+        }
+      },
+      {
+        "title": "Gulripshi",
+        "coordinates": {
+          "lat": "42.9213379",
+          "lon": "41.1030201"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Samegrelo",
+    "coordinates": {
+      "lat": "55.7768208",
+      "lon": "37.6079372"
+    },
+    "children": [
+      {
+        "title": "Zugdidi",
+        "coordinates": {
+          "lat": "42.5067616",
+          "lon": "41.8713297"
+        }
+      },
+      {
+        "title": "Khobi",
+        "coordinates": {
+          "lat": "42.3185298",
+          "lon": "41.9025799"
+        }
+      },
+      {
+        "title": "Chkhorotsku",
+        "coordinates": {
+          "lat": "42.5258474",
+          "lon": "42.1321257"
+        }
+      },
+      {
+        "title": "Tsalenjikha",
+        "coordinates": {
+          "lat": "42.6131131",
+          "lon": "42.0677958"
+        }
+      },
+      {
+        "title": "Senaki",
+        "coordinates": {
+          "lat": "42.2697221",
+          "lon": "42.0635021"
+        }
+      },
+      {
+        "title": "Abasha",
+        "coordinates": {
+          "lat": "42.2049284",
+          "lon": "42.2033321"
+        }
+      },
+      {
+        "title": "Martvili",
+        "coordinates": {
+          "lat": "42.539290949999994",
+          "lon": "42.39365043514877"
+        }
+      },
+      {
+        "title": "Poti",
+        "coordinates": {
+          "lat": "42.141614",
+          "lon": "41.6748028"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Lechkhumi",
+    "coordinates": {
+      "lat": "42.668778",
+      "lon": "43.12531391563436"
+    },
+    "children": []
+  }
+]
